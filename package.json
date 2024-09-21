@@ -11,6 +11,7 @@
   "description": "a backend in advance",
   "type": "module",
   "devDependencies": {
-    "nodemon": "^3.1.7"
+    "nodemon": "^3.1.7",
+    "prettier": "^3.3.3"
   }
 }
